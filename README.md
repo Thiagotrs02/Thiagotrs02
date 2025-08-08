@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá, eu sou o Thiago!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Apaixonado por Python
+🔌 Técnico em Eletrônica
+🤖 Entusiasta de Inteligência Artificial
+⚡ Fascinado por tecnologia
 
-<!--
-**Thiagotrs02/Thiagotrs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Um pouco sobre mim
+Sempre fui movido pela curiosidade e pela vontade de aprender. Hoje curso Análise e Desenvolvimento de Sistemas, mas minha jornada com tecnologia começou bem antes, na área de eletrônica. Gosto de entender como as coisas funcionam por dentro — seja desmontando aparelhos, seja explorando linhas de código.
 
-Here are some ideas to get you started:
+Tenho um interesse especial por inteligência artificial e adoro me desafiar com novos projetos que me ajudem a evoluir como profissional e como pessoa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projeto em destaque
+login
+Projeto onde aplico conceitos de Python e autenticação segura, um dos meus favoritos.
+
+🧠 Curiosidades
+Sempre estou aprendendo algo novo sobre IA e suas aplicações no mundo real.
+
+Desde pequeno, desmontar e remontar eletrônicos é meu jeito favorito de aprender.
+
+📫 Onde me encontrar
+GitHub: Thiagotrs02
+linkedin: linkedin.com/in/thiago-rocha-b47437352
+
+“A tecnologia move o mundo, e a curiosidade é o combustível dessa jornada.”
