@@ -23,4 +23,4 @@ Desde pequeno, desmontar e remontar eletrônicos é meu jeito favorito de aprend
 GitHub: Thiagotrs02
 linkedin: linkedin.com/in/thiago-rocha-b47437352
 
-“A tecnologia move o mundo, e a curiosidade é o combustível dessa jornada.”
+"O único conhecimento que leva à sabedoria é o conhecimento de que nada sabemos." – Sócrates
